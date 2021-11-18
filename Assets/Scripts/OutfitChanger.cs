@@ -6,28 +6,48 @@ public class OutfitChanger : MonoBehaviour
 {
     public SpriteRenderer bodyPart;
 
-    public List<Sprite> options = new List<Sprite>();
+    public List<OutfitPart> options = new List<OutfitPart>();
 
-    protected int CurrentIndex = 0;
-    // Start is called before the first frame update
-    protected virtual void NextOption()
+    private int CurrentIndex = 0;
+    [SerializeField] GameManager gameManager;
+    public GameObject AddButton;
+
+   
+    public  void NextOption()
     {
         CurrentIndex++;
         if (CurrentIndex >= options.Count)
         {
             CurrentIndex = 0;
         }
-        bodyPart.sprite = options[CurrentIndex];
+        bodyPart.sprite = options[CurrentIndex].OutfitSprite;
+        checkIfOwned();
     }
-    protected virtual void PreviousOption()
+    public  void PreviousOption()
     {
         CurrentIndex--;
         if (CurrentIndex <= 0)
         {
             CurrentIndex = options.Count - 1;
         }
-        bodyPart.sprite = options[CurrentIndex];
+        bodyPart.sprite = options[CurrentIndex].OutfitSprite;
+        checkIfOwned();
     }
 
-   
+    void checkIfOwned()
+    {
+        if (options[CurrentIndex].isOwned)
+        {
+            AddButton.SetActive(false);
+        }
+        else
+        {
+            AddButton.SetActive(true);
+          
+        }
+    }
+   public void buttonPressed()
+    {
+        gameManager.Items.Add(options[CurrentIndex]);
+    }
 }

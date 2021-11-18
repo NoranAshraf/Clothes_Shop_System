@@ -7,9 +7,10 @@ public class TwoPartChanger : MonoBehaviour
     public SpriteRenderer bodyPartR;
     public SpriteRenderer bodyPartL;
 
-    public List<Sprite> Roptions = new List<Sprite>();
-    public List<Sprite> Loptions = new List<Sprite>();
-
+    public List<OutfitPart> Roptions = new List<OutfitPart>();
+    public List<OutfitPart> Loptions = new List<OutfitPart>();
+    [SerializeField] GameManager gameManager;
+    [SerializeField] GameObject AddButton;
 
     private int CurrentIndex = 0;
 
@@ -23,9 +24,10 @@ public class TwoPartChanger : MonoBehaviour
         {
             CurrentIndex = 0;
         }
-        bodyPartR.sprite = Roptions[CurrentIndex];
-        bodyPartL.sprite = Loptions[CurrentIndex];
-
+        bodyPartR.sprite = Roptions[CurrentIndex].OutfitSprite;
+        bodyPartL.sprite = Loptions[CurrentIndex].OutfitSprite;
+        checkIfOwned();
+   
     }
     public void PreviousOption()
     {
@@ -39,8 +41,27 @@ public class TwoPartChanger : MonoBehaviour
  
 
         }
-        bodyPartR.sprite = Roptions[CurrentIndex];
-        bodyPartL.sprite = Loptions[CurrentIndex];
+        bodyPartR.sprite = Roptions[CurrentIndex].OutfitSprite;
+        bodyPartL.sprite = Loptions[CurrentIndex].OutfitSprite;
+        checkIfOwned();
+    }
+    void checkIfOwned()
+    {
+        if (Roptions[CurrentIndex].isOwned&&Loptions[CurrentIndex].isOwned)
+        {
+            AddButton.SetActive(false);
+        }
+        else
+        {
+            AddButton.SetActive(true);
+
+        }
+    }
+    public void buttonPressed()
+    {
+        gameManager.Items.Add(Roptions[CurrentIndex]);
+        gameManager.Items.Add(Loptions[CurrentIndex]);
+
     }
 }
 
