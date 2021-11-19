@@ -46,8 +46,5 @@ public class OutfitChanger : MonoBehaviour
           
         }
     }
-   public void buttonPressed()
-    {
-        gameManager.Items.Add(options[CurrentIndex]);
-    }
+   
 }

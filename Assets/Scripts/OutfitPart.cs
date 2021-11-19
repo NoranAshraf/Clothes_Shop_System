@@ -8,6 +8,5 @@ public class OutfitPart : ScriptableObject
     public bool isOwned;
     public int price;
     public Sprite OutfitSprite;
-
    
 }

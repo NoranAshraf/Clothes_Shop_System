@@ -57,12 +57,7 @@ public class TwoPartChanger : MonoBehaviour
 
         }
     }
-    public void buttonPressed()
-    {
-        gameManager.Items.Add(Roptions[CurrentIndex]);
-        gameManager.Items.Add(Loptions[CurrentIndex]);
-
-    }
+    
 }
 
 
