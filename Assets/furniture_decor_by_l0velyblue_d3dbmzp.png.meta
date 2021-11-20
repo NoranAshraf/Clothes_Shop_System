@@ -1,0 +1,1200 @@
+fileFormatVersion: 2
+guid: 7102906c769a83745934920666f00efc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5863984631680096741
+    second: furniture_decor_by_l0velyblue_d3dbmzp_0
+  - first:
+      213: -1281362764828451883
+    second: furniture_decor_by_l0velyblue_d3dbmzp_1
+  - first:
+      213: -4673439797934654514
+    second: furniture_decor_by_l0velyblue_d3dbmzp_2
+  - first:
+      213: -7953607259602367961
+    second: furniture_decor_by_l0velyblue_d3dbmzp_3
+  - first:
+      213: -150618090445964531
+    second: furniture_decor_by_l0velyblue_d3dbmzp_4
+  - first:
+      213: -8630724454736534689
+    second: furniture_decor_by_l0velyblue_d3dbmzp_5
+  - first:
+      213: 7577080331905464363
+    second: furniture_decor_by_l0velyblue_d3dbmzp_6
+  - first:
+      213: 1435726552521232457
+    second: furniture_decor_by_l0velyblue_d3dbmzp_7
+  - first:
+      213: -6542391110714798457
+    second: furniture_decor_by_l0velyblue_d3dbmzp_8
+  - first:
+      213: -330000663675417013
+    second: furniture_decor_by_l0velyblue_d3dbmzp_9
+  - first:
+      213: 4627999562086855161
+    second: furniture_decor_by_l0velyblue_d3dbmzp_10
+  - first:
+      213: -8912207967400377436
+    second: furniture_decor_by_l0velyblue_d3dbmzp_11
+  - first:
+      213: -6707959545846591358
+    second: furniture_decor_by_l0velyblue_d3dbmzp_12
+  - first:
+      213: 6512530673110520305
+    second: furniture_decor_by_l0velyblue_d3dbmzp_13
+  - first:
+      213: 7450052771892559671
+    second: furniture_decor_by_l0velyblue_d3dbmzp_14
+  - first:
+      213: -8452925108509432364
+    second: furniture_decor_by_l0velyblue_d3dbmzp_15
+  - first:
+      213: 5723034480067590820
+    second: furniture_decor_by_l0velyblue_d3dbmzp_16
+  - first:
+      213: 5813158001560441515
+    second: furniture_decor_by_l0velyblue_d3dbmzp_17
+  - first:
+      213: -4280650977669907980
+    second: furniture_decor_by_l0velyblue_d3dbmzp_18
+  - first:
+      213: 6056070591993217077
+    second: furniture_decor_by_l0velyblue_d3dbmzp_19
+  - first:
+      213: 3805999745963759209
+    second: furniture_decor_by_l0velyblue_d3dbmzp_20
+  - first:
+      213: 3320014145028285351
+    second: furniture_decor_by_l0velyblue_d3dbmzp_21
+  - first:
+      213: 934641679152057875
+    second: furniture_decor_by_l0velyblue_d3dbmzp_22
+  - first:
+      213: -9155172208350700039
+    second: furniture_decor_by_l0velyblue_d3dbmzp_23
+  - first:
+      213: 3542565648454203573
+    second: furniture_decor_by_l0velyblue_d3dbmzp_24
+  - first:
+      213: -8922616237630776350
+    second: furniture_decor_by_l0velyblue_d3dbmzp_25
+  - first:
+      213: -8234835832686546386
+    second: furniture_decor_by_l0velyblue_d3dbmzp_26
+  - first:
+      213: -2971896333212568157
+    second: furniture_decor_by_l0velyblue_d3dbmzp_27
+  - first:
+      213: 3894945643155696131
+    second: furniture_decor_by_l0velyblue_d3dbmzp_28
+  - first:
+      213: -8399722606794619907
+    second: furniture_decor_by_l0velyblue_d3dbmzp_29
+  - first:
+      213: -60824661630093108
+    second: furniture_decor_by_l0velyblue_d3dbmzp_30
+  - first:
+      213: 4096766155198875281
+    second: furniture_decor_by_l0velyblue_d3dbmzp_31
+  - first:
+      213: 1176628401320469875
+    second: furniture_decor_by_l0velyblue_d3dbmzp_32
+  - first:
+      213: 7907438631853457884
+    second: furniture_decor_by_l0velyblue_d3dbmzp_33
+  - first:
+      213: 3946792162476546609
+    second: furniture_decor_by_l0velyblue_d3dbmzp_34
+  - first:
+      213: -7750974390131835528
+    second: furniture_decor_by_l0velyblue_d3dbmzp_35
+  - first:
+      213: -480737958289503508
+    second: furniture_decor_by_l0velyblue_d3dbmzp_36
+  - first:
+      213: 5898108205536529452
+    second: furniture_decor_by_l0velyblue_d3dbmzp_37
+  - first:
+      213: 1484056616742059393
+    second: furniture_decor_by_l0velyblue_d3dbmzp_38
+  - first:
+      213: 3957473554568592384
+    second: furniture_decor_by_l0velyblue_d3dbmzp_39
+  - first:
+      213: -9018290644983104351
+    second: furniture_decor_by_l0velyblue_d3dbmzp_40
+  - first:
+      213: -8326943094062366252
+    second: furniture_decor_by_l0velyblue_d3dbmzp_41
+  - first:
+      213: 5339881754016842046
+    second: furniture_decor_by_l0velyblue_d3dbmzp_42
+  - first:
+      213: 8401317742931335584
+    second: furniture_decor_by_l0velyblue_d3dbmzp_43
+  - first:
+      213: -1976282009524006363
+    second: furniture_decor_by_l0velyblue_d3dbmzp_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 452
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16ab54db01fe9ea0800000000000000
+      internalID: -5863984631680096741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 448
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbdcf5ba5fa73ee0800000000000000
+      internalID: -1281362764828451883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb7ee4c34b942fb0800000000000000
+      internalID: -4673439797934654514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 453
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ace60665c1f9190800000000000000
+      internalID: -7953607259602367961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b783e05a5e8edf0800000000000000
+      internalID: -150618090445964531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53e62106d1893880800000000000000
+      internalID: -8630724454736534689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 401
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28f2d1ba62372960800000000000000
+      internalID: 7577080331905464363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_7
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 401
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940df9551b9bce310800000000000000
+      internalID: 1435726552521232457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_8
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 401
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ecb28a2f1c435a0800000000000000
+      internalID: -6542391110714798457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_9
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 405
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ecbf1152a9b6bf0800000000000000
+      internalID: -330000663675417013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_10
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 396
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1b9ded415f93040800000000000000
+      internalID: 4627999562086855161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 64
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3c1b2921a715480800000000000000
+      internalID: -8912207967400377436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 336
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2809f16555a88e2a0800000000000000
+      internalID: -6707959545846591358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_13
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 332
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1969f6428216a50800000000000000
+      internalID: 6512530673110520305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_14
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 341
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ff1922687e36760800000000000000
+      internalID: 7450052771892559671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_15
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 352
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5a05a366d21ba80800000000000000
+      internalID: -8452925108509432364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_16
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 342
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aabdb5a98d4c6f40800000000000000
+      internalID: 5723034480067590820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_17
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 300
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2da3a276c7ca050800000000000000
+      internalID: 5813158001560441515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_18
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 300
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f97e8c9d921894c0800000000000000
+      internalID: -4280650977669907980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_19
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 320
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5300272fd1c7b0450800000000000000
+      internalID: 6056070591993217077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96695699a90a1d430800000000000000
+      internalID: 3805999745963759209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_21
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 304
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3eea3564f031e20800000000000000
+      internalID: 3320014145028285351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_22
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 290
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e022eb7a388fc00800000000000000
+      internalID: 934641679152057875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_23
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 306
+        width: 56
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd5ab7f16b42f080800000000000000
+      internalID: -9155172208350700039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_24
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 273
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b83d9d10b8b92130800000000000000
+      internalID: 3542565648454203573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_25
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 269
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb92e05ecf7c2480800000000000000
+      internalID: -8922616237630776350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_26
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 258
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e227f01b07cf7bd80800000000000000
+      internalID: -8234835832686546386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_27
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 269
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5349dd704b1c6d0800000000000000
+      internalID: -2971896333212568157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_28
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 268
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a20c71d60ad0630800000000000000
+      internalID: 3894945643155696131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_29
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 268
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df34032fac03e6b80800000000000000
+      internalID: -8399722606794619907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_30
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 268
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc874f1ea48e72ff0800000000000000
+      internalID: -60824661630093108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_31
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 268
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196c870dc13aad830800000000000000
+      internalID: 4096766155198875281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375a7550c49345010800000000000000
+      internalID: 1176628401320469875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_33
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 238
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd183de4a8ddcbd60800000000000000
+      internalID: 7907438631853457884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_34
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 234
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ad5be8f82d5c630800000000000000
+      internalID: 3946792162476546609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_35
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 234
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87dba0dcbd10f6490800000000000000
+      internalID: -7750974390131835528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea8b1ebf531459f0800000000000000
+      internalID: -480737958289503508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_37
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 209
+        width: 56
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c42d5d92a4ad150800000000000000
+      internalID: 5898108205536529452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_38
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 202
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d7a7b41ad689410800000000000000
+      internalID: 1484056616742059393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_39
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 202
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c3014fa35cbe630800000000000000
+      internalID: 3957473554568592384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_40
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 163
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acbd88707898d280800000000000000
+      internalID: -9018290644983104351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_41
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 177
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1458dbf51c07c80800000000000000
+      internalID: -8326943094062366252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_42
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 64
+        width: 54
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3183c2d9221b1a40800000000000000
+      internalID: 5339881754016842046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_43
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 160
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9db90a9f9779470800000000000000
+      internalID: 8401317742931335584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_decor_by_l0velyblue_d3dbmzp_44
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 109
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522935eabf5d294e0800000000000000
+      internalID: -1976282009524006363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fef833c4e37c10428904e43541eab50, type: 3}
+  m_Name: HoodCategory
+  m_EditorClassIdentifier: 
+  Items:
+  - {fileID: 11400000, guid: 057eea78793ead84a94dcd38752fb321, type: 2}
+  - {fileID: 11400000, guid: 4947b1771a15f874b9f248f854967b43, type: 2}
+  - {fileID: 11400000, guid: 69bb1d2bcad0bdb43b3d72a8ae9cedd4, type: 2}
+  - {fileID: 11400000, guid: 871e326e6356a0b409dd3a0cd6dccfeb, type: 2}
+  - {fileID: 11400000, guid: 79f7d632d8e86a44ea38c373377fd7f4, type: 2}
+  previewSelectIndex: 0
+  selectIndex: 0

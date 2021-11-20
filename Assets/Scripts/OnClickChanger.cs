@@ -4,40 +4,66 @@ using UnityEngine;
 using UnityEngine.UI;
 public class OnClickChanger : MonoBehaviour
 {
-    [SerializeField] OutfitPart outfit;
-    [SerializeField] SpriteRenderer player;
+    [SerializeField] Categoty category;
+    [SerializeField] int selectIndex;
+    [SerializeField] SpriteRenderer []bodyParts;
     [SerializeField] Text PriceText;
     [SerializeField] Image img;
     [SerializeField] GameManager gameManager;
-    [SerializeField] Button btn;
+    [SerializeField] GameObject BuyButton;
 
     // Start is called before the first frame update
     void Start()
     {
-        PriceText.text = outfit.price.ToString() + "$";
-        img.sprite = outfit.OutfitSprite;
+        selectIndex = transform.GetSiblingIndex();
+       
+        if (category.Items[selectIndex].price == 0||category.Items[selectIndex].isOwned)
+              PriceText.gameObject.SetActive(false);
+
+        PriceText.text = category.Items[selectIndex].price.ToString() + "$";
+        img.sprite = category.Items[selectIndex].OutfitImage;
     }
 
     // Update is called once per frame
     void Update()
     {
-
+        
     }
     public void change()
     {
-     
-        gameManager.itemPrice = outfit.price;
-        player.sprite = outfit.OutfitSprite;
-        gameManager.totalPrice += outfit.price;
- 
-        if (outfit.price > 0)
+        
+        category.SetPreviewItem(selectIndex);
+        if (category.GetPreviewItem().isOwned)
         {
-            btn.interactable = true;
+            category.SetSelectIndex(selectIndex);
+        }
+        gameManager.itemPrice = category.GetPreviewItem().price;
+
+        for (int i = 0; i < bodyParts.Length; i++)
+        {
+            bodyParts[i].sprite = category.GetPreviewItem().OutfitSprite[i];
+        }
+ 
+        if (category.GetPreviewItem().price > 0&&!category.GetPreviewItem().isOwned)
+        {
+            BuyButton.SetActive(true);
         }
         else
         {
-            btn.interactable = false;
+            BuyButton.SetActive(false);
+
         }
     }
-
+    public void Buy()
+    {
+        if (gameManager.totalMoney >= gameManager.itemPrice)
+        {
+            BuyButton.SetActive(false);
+            PriceText.gameObject.SetActive(false);
+            gameManager.totalMoney -= gameManager.itemPrice;
+            category.GetPreviewItem().isOwned = true;
+            category.SetSelectIndex(selectIndex);
+        }
+    }
+  
 }

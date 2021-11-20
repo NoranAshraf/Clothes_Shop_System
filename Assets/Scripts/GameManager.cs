@@ -11,29 +11,26 @@ public class GameManager : MonoBehaviour
         
     [SerializeField] Camera cam;
     [SerializeField] Text MoneyText;
-    [SerializeField] int MoneyValue;
+    [SerializeField] GameObject ShopWindow;
     public int totalPrice;
     public int itemPrice;
     public int totalMoney;
-   
 
+    [SerializeField] Categoty[] categories;
+
+    [SerializeField] BodyPart[] bodyParts;
     void Start()
     {
-        
+     
     }
 
     // Update is called once per frame
     void Update()
     {
 
-       
-        MoneyText.text = MoneyValue.ToString();
+        MoneyText.text = totalMoney.ToString() + "$";
 
 
-    }
-   public void ShopNow()
-    {
-        cam.transform.position = new Vector3(55, 0, -10);
     }
 
   public  void MoneyCalculator()
@@ -43,6 +40,20 @@ public class GameManager : MonoBehaviour
                totalMoney -=itemPrice;
 
             }
+     }
+
+    public void CloseShop()
+    {
+        ShopWindow.SetActive(false);
+        for(int i=0; i <= bodyParts.Length-1; i++)
+        {
+            Categoty category = categories[i];
+            for(int j = 0; j <= bodyParts[i].BodyParts.Length-1; j++)
+            {
+                bodyParts[i].BodyParts[j].sprite = category.GetSelectItem().OutfitSprite[j];
+            }
         }
+    }
+  
    
 }

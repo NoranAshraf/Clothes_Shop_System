@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dec9ce4492dab2945b79e37ce16b52f8, type: 3}
+  m_Name: Shoes 4
+  m_EditorClassIdentifier: 
+  price: 20
+  OutfitSprite:
+  - {fileID: 21300000, guid: debc4edcc117abe4f8600caca642318f, type: 3}
+  - {fileID: 21300000, guid: e97e92bbd1093e044ab575af7f9999e9, type: 3}
+  OutfitImage: {fileID: 21300000, guid: 3d961221a535aed4b8091374342cb615, type: 3}

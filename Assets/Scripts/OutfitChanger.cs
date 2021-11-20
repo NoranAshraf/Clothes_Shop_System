@@ -20,7 +20,7 @@ public class OutfitChanger : MonoBehaviour
         {
             CurrentIndex = 0;
         }
-        bodyPart.sprite = options[CurrentIndex].OutfitSprite;
+        bodyPart.sprite = options[CurrentIndex].OutfitSprite[0];
         checkIfOwned();
     }
     public  void PreviousOption()
@@ -30,7 +30,7 @@ public class OutfitChanger : MonoBehaviour
         {
             CurrentIndex = options.Count - 1;
         }
-        bodyPart.sprite = options[CurrentIndex].OutfitSprite;
+        bodyPart.sprite = options[CurrentIndex].OutfitSprite[0];
         checkIfOwned();
     }
 

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fef833c4e37c10428904e43541eab50, type: 3}
+  m_Name: Skirt Category
+  m_EditorClassIdentifier: 
+  Items:
+  - {fileID: 11400000, guid: 011dca28dd4ac6a4fa583a73ebabe212, type: 2}
+  - {fileID: 11400000, guid: a054194f029d7ec4988dc10764487dc6, type: 2}
+  - {fileID: 11400000, guid: 87053014f22b3264bb603479f5dbdddd, type: 2}
+  - {fileID: 11400000, guid: 42074ee97e1383746913c5a2c3aaa57a, type: 2}
+  - {fileID: 11400000, guid: 1efa58b41601b6e4c8475cbd7d77398d, type: 2}
+  - {fileID: 11400000, guid: db52e2f0dfc8e204f9e2cc99a596f8a2, type: 2}
+  previewSelectIndex: 0
+  selectIndex: 0

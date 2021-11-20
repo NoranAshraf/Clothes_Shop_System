@@ -8,15 +8,22 @@ public class CharacterMovement : MonoBehaviour
     Vector2 lastClickedPos;
     bool moving;
     public float moveSpeed;
+    public bool canWalk;
     // Start is called before the first frame update
     void Start()
     {
+        canWalk = true;
         anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
     void Update()
     {
+        if (!canWalk)
+        {
+            anim.SetBool("Walk", false);
+            return;
+        }
         if (Input.GetMouseButtonDown(1))
         {
             lastClickedPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
@@ -34,5 +41,9 @@ public class CharacterMovement : MonoBehaviour
             anim.SetBool("Walk", false);
 
         }
+    }
+    public void SetCanWalk(bool target)
+    {
+        canWalk = target;
     }
 }

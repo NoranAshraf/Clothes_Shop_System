@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isOwned: 0
   price: 25
-  OutfitSprite: {fileID: 21300000, guid: 20eb058aea3c3a744bb5d47a1610550a, type: 3}
+  OutfitSprite:
+  - {fileID: 21300000, guid: 20eb058aea3c3a744bb5d47a1610550a, type: 3}
+  OutfitImage: {fileID: 21300000, guid: 20eb058aea3c3a744bb5d47a1610550a, type: 3}
